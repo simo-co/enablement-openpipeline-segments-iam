@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://didactic-spork-wq95vvv5w7925pvq-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://didactic-spork-wq95vvv5w7925pvq-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
